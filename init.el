@@ -1,3 +1,6 @@
+;; Config file taken mostly from Dave Wilson's config.
+;; https://github.com/daviwil/emacs-from-scratch
+
 ;; You will most likely need to adjust this font size for your system!
 (defvar runemacs/default-font-size 140)
 
